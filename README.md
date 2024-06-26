@@ -28,7 +28,10 @@ Software Engineering Manager, Speaker, Tech Blogger
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kesha-williams).
 
 This is the index list screenshot:
-<img width="338" alt="Screenshot 2024-06-26 at 11 36 07 AM" src="https://github.com/bdmostafa/building-a-project-with-the-chatgpt-api-4484140/assets/62140337/4cd32514-d20d-4d65-8e38-e269830bc3a0">
-<img width="340" alt="Screenshot 2024-06-26 at 11 23 48 AM" src="https://github.com/bdmostafa/building-a-project-with-the-chatgpt-api-4484140/assets/62140337/41e71e59-6516-4db3-ad5f-92453799b6ad">
+
+
 <img width="343" alt="Screenshot 2024-06-26 at 11 23 31 AM" src="https://github.com/bdmostafa/building-a-project-with-the-chatgpt-api-4484140/assets/62140337/acfd4724-7778-42dd-91ce-35b08c07fe13">
 
+<img width="340" alt="Screenshot 2024-06-26 at 11 23 48 AM" src="https://github.com/bdmostafa/building-a-project-with-the-chatgpt-api-4484140/assets/62140337/41e71e59-6516-4db3-ad5f-92453799b6ad">
+
+<img width="338" alt="Screenshot 2024-06-26 at 11 36 07 AM" src="https://github.com/bdmostafa/building-a-project-with-the-chatgpt-api-4484140/assets/62140337/4cd32514-d20d-4d65-8e38-e269830bc3a0">
